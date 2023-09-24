@@ -1,7 +1,9 @@
 package facade;
 
-import subsistema1.crm.CrmService;
-import subsistema2.cep.CepApi;
+//prover uma interface que reduza a complexidade das integrações com subsistemas
+
+import subsistema1.CrmService;
+import subsistema2.CepApi;
 
 public class Facade {
 
