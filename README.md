@@ -1,4 +1,4 @@
-# padroes_projeto
+# Padrões de Projeto
 
  Exemplos de Padrões de Projeto em Java
 
